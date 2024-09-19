@@ -1,10 +1,10 @@
-# Packet-Anaysis
+# Packet-Analysis
 
 &nbsp;
 
 &nbsp;
 
-## Packet Anaysis Project
+## Packet Analysis Project
 
  Build by Visual Studio.
 
